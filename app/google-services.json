@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777358284268",
+    "firebase_url": "https://locationbasedpurchasehistory.firebaseio.com",
+    "project_id": "locationbasedpurchasehistory",
+    "storage_bucket": "locationbasedpurchasehistory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777358284268:android:20ca2fcaef73234e309cc9",
+        "android_client_info": {
+          "package_name": "at41.cpsc571.locationBasedPurchaseHistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777358284268-70fqgn6ft99d8k6b66lvhte11vl7o7e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kMamr_a5SLOUdeR3PDQoGJFo3stCp0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777358284268-70fqgn6ft99d8k6b66lvhte11vl7o7e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
